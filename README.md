@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hola, soy Ivan Ramirez</h1>
+<h1 align="center">👋 Hola, soy Ivan </h1>
 <h3 align="center">Backend Developer | Automation Engineer | Bitrix24 & Spring Boot Specialist</h3>
 
 ---
@@ -28,8 +28,6 @@
 ### **Mobile / Frontend**
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactnative/reactnative-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
 </p>
@@ -62,16 +60,6 @@
 
 ---
 
-## 📦 Proyectos actuales
-
-- 📱 **SaveWise** – App de control de finanzas personales (React Native + SQLite).  
-- 🚗 **App estilo Uber** – Expo + Spring Boot + MySQL.  
-- 🧭 **Radar Turístico** – Google Maps + recomendaciones cercanas.  
-- 🔵 **Automatización WhatsApp para Bitrix24** – Manejo de sesiones, UTM, CRM, IBlocks.  
-- 🐍 **ws-estados-main** – Sistema de scrapers desplegado en AWS Lambda con Docker.  
-- 📚 **Sistema de Biblioteca Virtual** – Spring Boot Hexagonal + MySQL.
-
----
 
 ## 📊 GitHub Stats
 
