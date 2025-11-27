@@ -19,6 +19,7 @@ Specializing in Spring Boot, Bitrix24 integrations, and mobile development with 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -58,22 +59,22 @@ Docker containerization, AWS deployment (EC2, S3, Lambda), Linux server configur
 
 ## Key Projects
 
-### 🏥 Order Management Platform
+###  Order Management Platform
 Built a complete backend system for healthcare logistics using Spring Boot. Handles inventory tracking across multiple warehouses, automated notifications, and integrates with existing ERP systems.
 
 **Stack:** Spring Boot, PostgreSQL, Docker, AWS
 
-### 📱 Field Service App
+###  Field Service App
 Mobile application for field technicians with offline-first architecture. Features include GPS tracking, photo uploads, signature capture, and real-time sync with backend.
 
 **Stack:** React Native, REST API, Google Maps API, AsyncStorage
 
-### 🤖 WhatsApp Business Automation
+###  WhatsApp Business Automation
 Integration between WhatsApp Business API and Bitrix24 CRM. Automatically creates leads, assigns conversations to agents, and tracks customer interactions.
 
 **Stack:** PHP, Bitrix24 API, WhatsApp Business API, Webhooks
 
-### 🔍 Pharmacy Price Scraper
+###  Pharmacy Price Scraper
 Automated system that monitors prices across major pharmacy chains. Extracts product data, compares prices, and generates daily reports.
 
 **Stack:** Python, BeautifulSoup, Selenium, PostgreSQL, AWS Lambda
@@ -92,9 +93,9 @@ Automated system that monitors prices across major pharmacy chains. Extracts pro
 
 ## Get in Touch
 
-📧 **Email:** [tu-email@ejemplo.com]  
-💼 **LinkedIn:** [linkedin.com/in/tu-perfil]  
-🌐 **Portfolio:** [tu-sitio.com]
+📧 **Email:** [ivan.ram.gui@gmail.com]  
+💼 **LinkedIn:** [https://www.linkedin.com/in/ivan-ramirez-guillen/]  
+
 
 ---
 
