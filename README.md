@@ -1,88 +1,101 @@
-# 🌐 Ivan Ramirez — Backend & Automation Engineer
-
-✨ **Backend Developer | Integrador de Sistemas | Automatización Empresarial | Bitrix24 & Spring Boot Specialist**
+<h1 align="center">👋 Hola, soy Ivan Ramirez</h1>
+<h3 align="center">Backend Developer | Automation Engineer | Bitrix24 & Spring Boot Specialist</h3>
 
 ---
 
-## 🚀 About Me
+## 🚀 Sobre mí
 
-Desarrollo soluciones que respiran: APIs limpias, integraciones potentes y automatizaciones que convierten procesos caóticos en flujos precisos.  
-Trabajo con **Bitrix24**, **Spring Boot**, **MySQL**, **React Native**, **Docker**, y sistemas de mensajería como **RabbitMQ**.  
-Combino ingeniería con creatividad: microservicios, scrapers, apps móviles, automatizaciones de WhatsApp y sistemas internos robustos.
+- 💻 Desarrollador backend especializado en **Java (Spring Boot)** y **PHP para Bitrix24**.  
+- 🧠 Experto en automatizaciones: WhatsApp OpenLines, CRM, tareas, scrapers y workflows complejos.  
+- 📱 Desarrollo apps móviles en **React Native** con integraciones reales (Google Maps, geolocalización, APIs).  
+- 🐍 Manejo Python para scraping, automatización interna y despliegue en AWS.  
+- 🛠️ Trabajo con infraestructura Docker, Linux, Nginx, y servicios en la nube.  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### **Backend**
-- 💛 Java 17–21  
-- 🌱 Spring Boot 3  
-- 🧱 Arquitectura Hexagonal  
-- 🐬 MySQL / MariaDB  
-- 🧰 Maven  
-- 🐍 Python (scraping + automatizaciones)
+### **Backend & Languages**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/>
+</p>
 
-### **Frontend / Mobile**
-- ⚛️ React Native (Expo & CLI)  
-- 🌀 Tailwind / Nativewind  
-- 🗺️ Google Maps API  
+### **Mobile / Frontend**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactnative/reactnative-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+</p>
+
+### **Databases**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45"/>
+</p>
 
 ### **DevOps / Infra**
-- 🐳 Docker  
-- 🌩️ AWS (EC2, Lambda, S3)  
-- 🔐 SSH | Nginx  
-- 💤 PM2  
-
-### **CRM / Business Automation**
-- 🔵 Bitrix24 Self-Hosted (PHP + D7 + Webhooks)  
-- 🧩 Integración de CRM, IBlocks, tareas, workflows  
-- 🤖 Automatización de WhatsApp OpenLines  
-- 📨 Integración con Gmail API  
-
----
-
-## ⚙️ Areas Where I Shine
-
-- Construcción de **APIs REST** escalables  
-- Scraping profesional (farmacias, comercio exterior, sitios públicos)  
-- Sistemas de **órdenes, solicitudes y control interno**  
-- Integración avanzada con Bitrix24 (CRM, IBlock, IM, tareas)  
-- Apps móviles listas para producción  
-- Automatización de correos, logs y procesos internos  
-- SQL optimizado y análisis de datos  
-
----
-
-## 📦 Projects I’m Building
-
-- 📱 **SaveWise** — App de finanzas personales con gráficos y DB local  
-- 👛 **Control de Ahorros** (RN + TypeScript)  
-- 🚗 **Uber-like App** (Spring Boot + React Native)  
-- 🧭 **Radar Turístico** (Google Maps API)  
-- 📦 **ws-estados-main** — Scrapers multi-origen en AWS Lambda  
-- 🔵 Automatizaciones avanzadas de WhatsApp para Bitrix24  
-- 📚 Sistema de biblioteca virtual (Spring Boot + Hexagonal)
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
- <img height="180" src="https://github-readme-stats.vercel.app/api?username=ivanramirez&show_icons=true&theme=react&hide_border=true" />
- <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanramirez&layout=compact&theme=react&hide_border=true" />
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
 </p>
 
 ---
 
-## ☕ Let’s Build Something
+## ⚙️ Áreas donde destaco
 
-Si quieres colaborar, revisar código o armar un sistema desde cero, aquí estoy.  
-Siempre abierto a crear herramientas que hagan el trabajo más inteligente.
+- Desarrollo de APIs REST con Spring Boot y arquitecturas limpias.  
+- Automatizaciones avanzadas dentro de Bitrix24 (IBlocks, CRM, IM, OpenLines).  
+- Scraping avanzado para farmacias, entidades gubernamentales y comercio exterior.  
+- Apps móviles con geolocalización, mapas y consumo de APIs.  
+- Diseño de sistemas de órdenes/solicitudes en empresas reales.  
+- Despliegue de servicios backend usando Docker + AWS.  
 
 ---
 
-### 🔗 Contact
+## 📦 Proyectos actuales
 
-📧 **ivan.ramirez.dev@gmail.com**  
-💼 **LinkedIn:** *(agrego el link si lo compartes)*  
+- 📱 **SaveWise** – App de control de finanzas personales (React Native + SQLite).  
+- 🚗 **App estilo Uber** – Expo + Spring Boot + MySQL.  
+- 🧭 **Radar Turístico** – Google Maps + recomendaciones cercanas.  
+- 🔵 **Automatización WhatsApp para Bitrix24** – Manejo de sesiones, UTM, CRM, IBlocks.  
+- 🐍 **ws-estados-main** – Sistema de scrapers desplegado en AWS Lambda con Docker.  
+- 📚 **Sistema de Biblioteca Virtual** – Spring Boot Hexagonal + MySQL.
 
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ivanramirez&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanramirez&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+## 🔗 Contacto
+
+<p align="left">
+  <a href="mailto:ivan.ramirez.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/tu-link" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/ivanramirez" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23000000.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+⭐ *Siempre creando soluciones inteligentes que hagan el trabajo más simple.*
